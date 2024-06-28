@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16;
+    line-height: 24px;
+    font-weight: 400;
+    background-image: radial-gradient(ellipse at top left, #7f50e4, #7f50e4);
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+}
+
+body {
+    margin: 0;
+    color: #e6ddf9;
+}
